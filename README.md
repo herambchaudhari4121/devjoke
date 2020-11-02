@@ -1276,4 +1276,17 @@ Father : Talk is cheap, Show me the code.
 
 ***
 ![Howto_Google](./images/howtogoogle.jpg)
+
 ***
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>PYTHON LERANER IN INDIA</h2>
+
+<img src="https://pics.me.me/thumb_pythons-learning-python-72507105.png" alt="W3Schools.com" style="width:500px;height:650px;">
+
+</body>
+</html>
+
